@@ -1,0 +1,48 @@
+{
+  "name": "mincer-example",
+  "version": "1.0.0",
+  "description": "mincer example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felixyale",
+  "license": "MIT",
+  "homepage": "https://github.com/felixyale/mincer-example",
+  "dependencies": {
+    "argparse": "^1.0.2",
+    "compressible": "^2.0.2",
+    "connect-mincer": "^1.1.0",
+    "express": "^4.13.3",
+    "hike": "^1.0.0",
+    "lodash": "^3.10.1",
+    "mimoza": "^1.0.0",
+    "mkdirp": "~ 0.5.1",
+    "pako": "~ 0.2.8",
+    "shellwords": "~ 0.1.0",
+    "source-map": "~ 0.5.3",
+    "wrench": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-jscs": "^1.8.0",
+    "autoprefixer": "*",
+    "coffee-script": "*",
+    "mincer": "*",
+    "connect": "*",
+    "csso": "*",
+    "csswring": "*",
+    "ejs": "*",
+    "eslint": "0.10.2",
+    "eslint-plugin-nodeca": "~1.0.3",
+    "jade": "*",
+    "less": "*",
+    "mocha": "*",
+    "node-sass": "*",
+    "postcss": "*",
+    "sinon": "^1.12.2",
+    "stylus": "*",
+    "supertest": "^1.1.0",
+    "uglify-js": "*"
+  }
+}
